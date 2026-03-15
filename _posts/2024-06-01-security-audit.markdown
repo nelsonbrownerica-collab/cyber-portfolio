@@ -4,6 +4,7 @@ modal-id: 1
 title: Security Audit
 img: audit.png
 alt: image-alt
+url: /security-audit/
 
 # Reminder: Update this link with your own project link
 project-url: ((https://docs.google.com/document/d/17mPu0iMEogL5_swbVjNTqApt2HplhLvtpdHVUZokBKY/edit?usp=sharing))
