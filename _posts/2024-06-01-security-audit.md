@@ -4,7 +4,8 @@ title: "Security Audit"
 date: 2024-06-01
 img: security-audit.png
 alt: "Security Audit Project"
-url: /security-audit/
+permalink: /security-audit/
+
 modal-id: 1
 ---
 
