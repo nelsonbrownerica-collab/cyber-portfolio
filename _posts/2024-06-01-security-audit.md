@@ -1,12 +1,11 @@
 ---
 layout: default
-title: "Security Audit"
-date: 2024-06-01
-img: security-audit.png
-alt: "Security Audit Project"
-permalink: /security-audit/
+title: Security Audit Project
+img: audit.png
+alt: Security Audit Image
 modal-id: 1
 ---
+
 
 # Security Audit
 
