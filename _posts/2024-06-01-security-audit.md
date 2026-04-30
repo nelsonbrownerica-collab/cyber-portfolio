@@ -6,7 +6,6 @@ alt: Security Audit Image
 modal-id: 1
 ---
 
-
 # Security Audit
 
 **Project URL:**  
