@@ -59,6 +59,8 @@ Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack
 # Build settings
 markdown: kramdown
 permalink: pretty
+url: "https://nelsonbrownerica-collab.github.io"
+baseurl: "/cyber-portfolio"
 
 #for posts
 defaults:
